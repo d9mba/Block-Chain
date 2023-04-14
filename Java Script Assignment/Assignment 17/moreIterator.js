@@ -1,6 +1,5 @@
 /*
-    Author: Josue Isamuna Nkembo
-    Email : josamuna2009@gmail.com
+  
 
     4. In the following two arrays find which two elements match using iterators.
        Array 1 - ["a", "b", "c", "d"]

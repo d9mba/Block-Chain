@@ -1,6 +1,4 @@
 /*
-    Author: Josue Isamuna Nkembo
-    Email : josamuna2009@gmail.com
 
     2. Iterate over all the characters of the word “iNeuron”.
 */

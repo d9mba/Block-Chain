@@ -1,7 +1,5 @@
 /*
-    Author: Josue Isamuna Nkembo
-    Email : josamuna2009@gmail.com
-
+    
     3. Create a functional iterator, with a next function.
 */
 

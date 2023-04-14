@@ -1,7 +1,5 @@
 /*
-    Author: Josue Isamuna Nkembo
-    Email : josamuna2009@gmail.com
-
+  
     1. Create a function to iterate over the following list ["John", "Rohn", "Danny", "James"]
 */
 
